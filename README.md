@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+Restate Mobile App - README
+App Overview
+"Restate" is a mobile application designed to help users find and manage real estate properties. The app offers a seamless experience for browsing homes, exploring listings, and managing user profiles, with a clean and modern interface. Below is a brief walkthrough of the app's key screens.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+App Walkthrough
+1. Login Screen
+The login screen welcomes users to the app and prompts them to sign in.
 
-## Get started
+Message: "Let's Get You Closer To Your New Home" with a focus on finding a new property.
+Login Option: Users can sign in using "Continue with Google."
+Visuals: A collage of modern houses sets the tone for the real estate focus.
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+2. Home Screen
+The home screen greets the user and showcases property listings.
 
-2. Start the app
+Greeting: Personalized with "Good Morning Sam Z."
+Featured Listings: Displays properties like "Modern House" in New York for $2,220 with ratings (e.g., 4.4 stars).
+Recommendations: Offers categories like Houses, Condos, and Duplexes for browsing.
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+3. Explore Section
+The explore section (accessible via the bottom navigation bar) allows users to search for properties.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Search Bar: A "Search for anything" field to find specific listings.
+Navigation: Part of the bottom bar with Home, Explore, and Profile icons for easy access.
+(Note: The explore section is not fully shown but inferred from the navigation bar.)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+4. Profile Screen
+The profile screen provides account management options for the user.
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+User Info: Displays the user's initials ("SZ") and name ("Sam Z").
+Options: Includes My Bookings, Payments, Profile, Security, Notification, Language, Help Center, Invite Friends, and Log-out.

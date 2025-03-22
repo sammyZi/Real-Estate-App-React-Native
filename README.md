@@ -31,6 +31,21 @@ You can start exploring the app by following the walkthrough below. This project
 
 # App Walkthrough
 
+This application is built using the following technologies:
+
+- **React Native** — For building the mobile application.
+- **Expo Router** — For routing and navigation.
+- **Tailwind CSS** — For styling with utility-first classes.
+- **Custom Fonts** — To enhance typography and user experience.
+- **Custom Icons** — To provide meaningful and aesthetic icons.
+
+### Key Features:
+- 📱 **Smooth Navigation** with Expo Router.
+- 🎨 **Responsive UI** with Tailwind CSS.
+- 🔤 **Custom Fonts** for better readability.
+- 🏞️ **Custom Icons** for a unique design.
+- 🚀 **Cross-Platform** support (iOS & Android).
+
 ## 1. Login Screen - 
 
 Start by signing into the app.

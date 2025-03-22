@@ -1,33 +1,86 @@
-Restate Mobile App - README
-App Overview
-"Restate" is a mobile application designed to help users find and manage real estate properties. The app offers a seamless experience for browsing homes, exploring listings, and managing user profiles, with a clean and modern interface. Below is a brief walkthrough of the app's key screens.
+###Welcome to Restate 👋
+This is a mobile application project for browsing and managing real estate listings, built with a modern and user-friendly interface.
+
+Get Started
+Install dependencies
+
+bash
+
+Collapse
+
+Wrap
+
+Copy
+npm install
+Start the app
+
+bash
+
+Collapse
+
+Wrap
+
+Copy
+npx expo start
+In the output, you'll find options to open the app in a
+
+development build
+Android emulator
+iOS simulator
+Expo Go, a limited sandbox for trying out app development with Expo
+You can start exploring the app by following the walkthrough below. This project uses a clean navigation structure to guide users through property browsing and account management.
 
 App Walkthrough
 1. Login Screen
-The login screen welcomes users to the app and prompts them to sign in.
+Start by signing into the app.
 
-Message: "Let's Get You Closer To Your New Home" with a focus on finding a new property.
-Login Option: Users can sign in using "Continue with Google."
-Visuals: A collage of modern houses sets the tone for the real estate focus.
+Welcome Message: "Let's Get You Closer To Your New Home."
+Login Option: Sign in with "Continue with Google."
+Visuals: A collage of modern houses.
 
 
 2. Home Screen
-The home screen greets the user and showcases property listings.
+View featured and recommended properties.
 
-Greeting: Personalized with "Good Morning Sam Z."
-Featured Listings: Displays properties like "Modern House" in New York for $2,220 with ratings (e.g., 4.4 stars).
-Recommendations: Offers categories like Houses, Condos, and Duplexes for browsing.
+Greeting: Personalized, e.g., "Good Morning Sam Z."
+Listings: Shows properties like "Modern House" in New York for $2,220 with ratings (e.g., 4.4 stars).
+Categories: Filter by Houses, Condos, Duplexes, and more.
 
 
 3. Explore Section
-The explore section (accessible via the bottom navigation bar) allows users to search for properties.
+Search for properties.
 
-Search Bar: A "Search for anything" field to find specific listings.
-Navigation: Part of the bottom bar with Home, Explore, and Profile icons for easy access.
-(Note: The explore section is not fully shown but inferred from the navigation bar.)
+Search Bar: "Search for anything" to find listings.
+Navigation: Accessible via the bottom bar (Home, Explore, Profile).
+(Note: The explore section is inferred from the navigation bar.)
 
 4. Profile Screen
-The profile screen provides account management options for the user.
+Manage your account.
 
-User Info: Displays the user's initials ("SZ") and name ("Sam Z").
-Options: Includes My Bookings, Payments, Profile, Security, Notification, Language, Help Center, Invite Friends, and Log-out.
+User Info: Displays initials ("SZ") and name ("Sam Z").
+Options: My Bookings, Payments, Profile, Security, Notification, Language, Help Center, Invite Friends, Log-out.
+
+
+Get a Fresh Project
+When you're ready to start fresh, run:
+
+bash
+
+Collapse
+
+Wrap
+
+Copy
+npm run reset-project
+This command will move the current code to the app-example directory and create a blank app directory where you can start developing.
+
+Learn More
+To learn more about developing your project, check out these resources:
+
+Expo Documentation: Learn fundamentals or dive into advanced topics with guides.
+Learn Expo Tutorial: Follow a step-by-step tutorial to create a project that runs on Android, iOS, and the web.
+Join the Community
+Join our community of developers creating universal apps.
+
+Expo on GitHub: View our open-source platform and contribute.
+Discord Community: Chat with Expo users and ask questions.

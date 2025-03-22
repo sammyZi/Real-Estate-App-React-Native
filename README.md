@@ -44,3 +44,5 @@ Login Option: Sign in with "Continue with Google."
 
 ![App Screenshot](https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/login.jpg)
 
+
+

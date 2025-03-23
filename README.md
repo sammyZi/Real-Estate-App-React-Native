@@ -23,7 +23,7 @@ This is a mobile application project for browsing and managing real estate listi
 
 2. [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 
-3. [iOS simulator]https://docs.expo.dev/workflow/ios-simulator/)
+3. [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
  
 4. [Expo](https://expo.dev/go)
 

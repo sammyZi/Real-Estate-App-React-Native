@@ -57,7 +57,7 @@ Start by signing into the app.
 
 ## Screenshot
 
-![App Screenshot](https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/login.jpg)
+<img src="https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/login.jpg" width="300" height="auto" alt="App Screenshot" />
 
 # 2. Home Screen -
  

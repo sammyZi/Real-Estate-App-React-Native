@@ -72,7 +72,8 @@ View featured and recommended properties.
 
 ## Screenshot
 
-![App Screenshot](https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/home.jpg)
+<img src="https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/home.jpg" width="300" height="auto" alt="App Screenshot" />
+
 
 
 # 3. Explore Section - 
@@ -84,7 +85,7 @@ Search for properties.
 
 ## Screenshot
 
-![App Screenshot](https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/explore.jpg)
+<img src="https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/explore.jpg" width="300" height="auto" alt="App Screenshot" />
 
 # 4. Profile Screen - 
 
@@ -95,5 +96,5 @@ Manage your account.
 
 ## Screenshot
 
-![App Screenshot](https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/profile.jpg)
+<img src="https://github.com/sammyZi/Real-Estate-App-React-Native/blob/master/profile.jpg" width="300" height="auto" alt="App Screenshot" />
 
